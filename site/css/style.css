@@ -12,10 +12,30 @@ div {
   src: url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
 }
 
-h1, h2, h3, h4, h5, h6, h7,  {
+h1 {
   font-family: "HeaderFont" ;
   color: crimson;
 }
 .num-1 {
   color: brown;
+}
+
+h2 {
+  color: chartreuse;
+}
+
+h3 {
+color: deeppink;
+}
+
+h4 {
+  color: bisque;
+}
+
+h5 {
+  color: cadetblue;
+}
+
+h6 {
+  color: darkcyan;
 }
